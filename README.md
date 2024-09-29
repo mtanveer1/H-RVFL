@@ -8,7 +8,7 @@ This paper incorporates the HawkEye loss (H-loss) function into the RVFL framewo
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 
-We have put a demo of the “HE-RVFL” model with the “congressional_voting” dataset.
+We have put a demo of the “H-RVFL” model with the “congressional_voting” dataset.
 
 
 Description of files:
