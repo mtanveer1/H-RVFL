@@ -14,7 +14,7 @@ We have put a demo of the “H-RVFL” model with the “congressional_voting”
 Description of files:
 
 Main: This is the main file to run selected models on datasets. In the path variable specify the path to the folder containing the codes and datasets on which you wish to run the algorithm.
-HE_RVFL_Function: The main file calls this file for the training and testing process. This contain the function for HE-RVFL model solved using NAG algorithm.
+H_RVFL_Function: The main file calls this file for the training and testing process. This contain the function for H-RVFL model solved using NAG algorithm.
 Evaluate.m: This function computes the accuracy.
 
 
