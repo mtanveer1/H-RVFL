@@ -2,7 +2,8 @@
 
 Please cite the following paper if you are using this code. 
 
-Reference: Mushir Akhtar, Ritik Mishra, M. Sajid, A. Quadir, M. Tanveer, and Mohd. Arshad. "Advancing RVFL networks: Robust classification with the HawkEye loss function", 31st International Conference on Neural Information Processing (ICONIP), 2024.
+Reference: Mushir Akhtar, Ritik Mishra, M. Tanveer, and Mohd. Arshad. "Advancing RVFL networks: Robust classification with the HawkEye loss function", 31st International Conference on Neural Information Processing (ICONIP), 2024. https://link.springer.com/chapter/10.1007/978-981-96-6582-2_16
+
 
 This paper incorporates the HawkEye loss (H-loss) function into the RVFL framework. The H-loss function features nice mathematical properties, including smoothness and boundedness, while simultaneously incorporating an insensitive zone. Each characteristic brings its own advantages: 1) Boundedness limits the impact of extreme errors, enhancing robustness against outliers; 2) Smoothness facilitates the use of gradient based optimization algorithms, ensuring stable and efficient convergence; and 3) The insensitive zone mitigates the effect of minor discrepancies and noise. Notably, this work addresses a significant gap, as no bounded loss function has been incorporated into RVFL to date.
 
